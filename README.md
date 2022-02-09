@@ -34,3 +34,16 @@ Analyzed historical monthly sales data of a company. Created multiple forecast m
 •	The seasonal sale in December 1995 will hit a maximum of 6084 units before it drops to the lowest sale in January 1996 at 1215 units.
 
 ### Line Plot for 12 month forecast on Rose dataset
+
+![image](https://user-images.githubusercontent.com/87828805/153258723-ea654b7d-71e3-401e-8769-ac4222e56ce3.png)
+![image](https://user-images.githubusercontent.com/87828805/153258763-4a8e95a4-0562-4698-bf6e-1155d858829e.png)
+
+•	The model forecast sale of 538 units of Rose wine in 12 months into future which is an average sale of 44 units per month.
+
+•	The seasonal sale in December 1995 will hit a maximum of 82 units before it drops to the lowest sale in January 1996 at 24 units.
+
+
+
+
+
+
