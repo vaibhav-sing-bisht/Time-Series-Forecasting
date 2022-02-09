@@ -25,3 +25,12 @@ Analyzed historical monthly sales data of a company. Created multiple forecast m
 •	2 point trailing moving average is found to be having the best fitment against the test data, through with lag of 2 and falling short at times.
 
 •	Both SARIMA and Triple Exponential Smoothing are found a bit higher than actuals at any given point in time
+
+### Line Plot for 12 month forecast on Sparkling dataset
+![image](https://user-images.githubusercontent.com/87828805/153258410-91c3bd3a-aa4c-471e-878c-0537b1c21dd9.png)
+![image](https://user-images.githubusercontent.com/87828805/153258458-0cb58405-30d1-4392-819c-6a96cb64aa14.png)
+•	The model forecast sale of 29508 units of sparkling wine in 12 months into future which is an average sale of 2459 units per month.
+
+•	The seasonal sale in December 1995 will hit a maximum of 6084 units before it drops to the lowest sale in January 1996 at 1215 units.
+
+### Line Plot for 12 month forecast on Rose dataset
